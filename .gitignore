@@ -1,3 +1,4 @@
 /qrcodes/*.png
 /qrcodes/*.xlsx
 *.json
+*.csv
