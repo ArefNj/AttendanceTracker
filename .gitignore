@@ -1,2 +1,3 @@
 /qrcodes/*.png
 /qrcodes/*.xlsx
+*.json
